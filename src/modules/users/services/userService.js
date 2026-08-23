@@ -1,5 +1,4 @@
 const NotFoundError = require("../../../shared/errors/NotFoundError");
-
 const userRepository = require("../repositories/userRepository");
 
 class UserService {
